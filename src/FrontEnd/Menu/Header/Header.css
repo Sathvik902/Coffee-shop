@@ -1,0 +1,14 @@
+.Menu_header{
+    position: relative;
+    top: 7rem;
+    background: white;
+    height: 50px;
+    /* color: white; */
+}
+
+.Nav_menu{
+    position: relative;
+    gap: 20px;
+    width: 100%;
+    
+}

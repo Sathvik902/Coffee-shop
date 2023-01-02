@@ -1,0 +1,33 @@
+img{
+    position: relative;
+    opacity: 1;
+    width: 100vh;
+    height: 100vh;
+    top: 10vh;
+    z-index: -10;
+    /* left: 10vh; */
+}
+
+html{
+    overflow-x: hidden;  
+}
+
+.Headline{
+    position: relative;
+    margin-left: 2vh;
+    margin-top: 40%;
+    width: 80%;
+    left: 5vh;
+}
+
+#Collen{
+    font-size: 100px;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(194, 145, 54);
+}
+
+.Coffee_cup{
+    width: 20vh;
+    height: 20vh;
+    top: 30vh;
+}
